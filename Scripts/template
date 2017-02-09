@@ -207,7 +207,7 @@ template<class T> inline T sqr(T a){return a*a;}
 template<class T> inline T cub(T a){return a*a*a;}
 inline int Ceil(int x, int y){return (x - 1) / y + 1;}
 
-// <<= ` 1. Bitwise Operation .,
+// <<= ` 1. Bitwise Operation .
 
 namespace BO{
 
